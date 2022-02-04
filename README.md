@@ -13,7 +13,7 @@ Currently Included:
 * Google
 * Okta
 
-(https://github.com/jamf/Jamf-Connect-Configurations-Templates/blob/main/images/JCC.png)
+![](https://github.com/jamf/Jamf-Connect-Configurations-Templates/blob/main/images/JCC.png)
 
 ## Installation
 
