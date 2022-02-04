@@ -17,9 +17,9 @@ Currently Included:
 
 ## Installation
 
-- Warning: This overwrites existing configurations for Jamf Connect Configurations, If configurations for Jamf Connect Configuration already exist a back-up will be written to `/tmp` directory
+**Warning**: This overwrites existing configurations for Jamf Connect Configurations, If configurations for Jamf Connect Configuration already exist a back-up will be written to `/tmp` directory
 
-* **Required:** First install the latest Jamf Connect Configuration application. You can retrieve the installer through account.jamf.com or navigating to https://files.jamfconnect.com/JamfConnect.dmg
+* Required: First install the latest Jamf Connect Configuration application. You can retrieve the installer through account.jamf.com or navigating to https://files.jamfconnect.com/JamfConnect.dmg
 * Quit / Do not open Jamf Connect Configuration.
 * Download and install the signed and notarized .pkg included in Releases which will distribute the templates in Jamf Connect Configuration.
 
