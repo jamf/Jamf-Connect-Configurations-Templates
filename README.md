@@ -13,6 +13,8 @@ Currently Included:
 * Google
 * Okta
 
+(https://github.com/jamf/Jamf-Connect-Configurations-Templates/blob/main/images/JCC.png)
+
 ## Installation
 
 * **Required:** First install the latest Jamf Connect Configuration application. You can retrieve the installer through account.jamf.com or navigating to https://files.jamfconnect.com/JamfConnect.dmg
