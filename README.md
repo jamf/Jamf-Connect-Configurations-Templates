@@ -1,16 +1,20 @@
-# Pre-configured Jamf Connect Configuration files
-Internal Repository for hosting a pre-configured Jamf Connect Configuration SQlite db
+# Pre-configured Jamf Connect Configuration Templates
+Channel partners of Jamf can use the Jamf Connect Evaluation Guide with Cloud Identity Providers made available and credentials supplied from Jamf.
 
-Handy for new starting EMEIA SEs! Now you have a pre-filled Jamf Connect Configuration app with all the available EMEIA SE Cloud Identity Providers.
+The packages downloaded from the Evaluation Guide are ideal for use directly on a test Mac without the need for an MDM or any configurations to be applied.
+
+With the included installer on this GitHub page in the releases section you can also get the available Cloud Identity Providers as templates in the Jamf Connect Configuration application. 
 
 Currently Included:
-- CyberArk Identity
-- OneLogin
-- Microsoft Azure AD
-- Okta
-- GoogleID
+* Azure
+* OneLogin
+* Google
+* Okta
 
 ## Installation
 
-- You could download all the SQlite files in the repo and copy them in /Users/username/Library/Application Support/Jamf Connect Configuration
-- Just simply download and install the .pkg included in Releases, signed and notarized package which does it for you.
+* **Required:** First install the latest Jamf Connect Configuration application. You can retrieve the installer through account.jamf.com or navigating to https://files.jamfconnect.com/JamfConnect.dmg
+* Quit / Do not open Jamf Connect Configuration.
+* Download and install the signed and notarized .pkg included in Releases which will distribute the templates in Jamf Connect Configuration.
+
+## Please note that all resources contained within this repository are provided as-is and are not officially supported by Jamf.
