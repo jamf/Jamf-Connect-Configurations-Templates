@@ -3,7 +3,7 @@ Channel partners of Jamf can use the Jamf Connect Evaluation Guide with Cloud Id
 
 The packages downloaded from the Evaluation Guide are ideal for use directly on a test Mac without the need for an MDM or any configurations to be applied.
 
-With the included installer on this GitHub page in the releases section you can also get the available Cloud Identity Providers as templates in the Jamf Connect Configuration application. 
+With the included installer on this GitHub page in the releases section you can also get the available Cloud Identity Providers as templates in the Jamf Connect Configuration application., with this you can more easily customise the configuration and upload it directly to Jamf Pro or save it in .plist or .mobileconfig format to distribute it with any MDM
 
 Make sure to read through the [Jamf Connect Evaluation Guide](https://docs.jamf.com/jamf-connect/evaluation-guide/index.html)
 
