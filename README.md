@@ -16,7 +16,7 @@ Currently Included:
 ![](https://github.com/jamf/Jamf-Connect-Configurations-Templates/blob/main/images/JCC.png)
 
 ## Installation
-If configurations for Jamf Connect Configuration already exist a back-up will be written to `/tmp`
+::Warning: This overwrites existing configurations for Jamf Connect Configurations, If configurations for Jamf Connect Configuration already exist a back-up will be written to `/tmp`::
 
 * **Required:** First install the latest Jamf Connect Configuration application. You can retrieve the installer through account.jamf.com or navigating to https://files.jamfconnect.com/JamfConnect.dmg
 * Quit / Do not open Jamf Connect Configuration.
