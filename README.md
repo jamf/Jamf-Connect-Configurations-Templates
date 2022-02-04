@@ -5,6 +5,8 @@ The packages downloaded from the Evaluation Guide are ideal for use directly on 
 
 With the included installer on this GitHub page in the releases section you can also get the available Cloud Identity Providers as templates in the Jamf Connect Configuration application. 
 
+Make sure to read through the [Jamf Connect Evaluation Guide](https://docs.jamf.com/jamf-connect/evaluation-guide/index.html)
+
 Currently Included:
 * Azure
 * OneLogin
